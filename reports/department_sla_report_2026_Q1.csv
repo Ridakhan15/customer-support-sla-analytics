@@ -1,0 +1,6 @@
+department_name,tickets_received,resolved,unresolved,pct_resolved_on_time,avg_resolution_hours,avg_rating
+"Billing & Payments",188,182,6,79.7,34.0,3.80
+"Technical Support",179,174,5,79.3,33.4,3.73
+"Delivery & Logistics",138,130,8,84.6,28.6,3.65
+"Product Support",131,125,6,85.6,35.6,3.90
+"Account Services",95,91,4,73.6,39.5,3.79
